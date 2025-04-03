@@ -1,0 +1,37 @@
+.main-first-div{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10vh;
+        gap: 8vw;
+}
+
+.main-first-div >:nth-child(1){
+    height: 30vh;
+    width: 44vh;
+    background-color: rgb(233, 233, 228);
+        display: flex
+;
+    align-items: center;
+    justify-content: center;
+}
+.main-first-div >:nth-child(2){
+    height: 30vh;
+    width: 44vh;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(233, 233, 228);
+
+}
+.main-first-div >:nth-child(3){
+    height: 30vh;
+    width: 44vh;
+    background-color: rgb(233, 233, 228);
+        display: flex
+;
+    align-items: center;
+    justify-content: center;
+
+}
